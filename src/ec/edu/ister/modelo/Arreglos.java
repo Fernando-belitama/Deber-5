@@ -6,10 +6,6 @@ import java.util.Collections;
 import java.util.List;
 import javax.swing.JOptionPane;
 
-/**
- * @Instituto Rumiñahui
- * @author SSolis
- */
 public class Arreglos {
 
     private Integer arrayTemperaturas[];
